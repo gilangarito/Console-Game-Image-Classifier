@@ -16,4 +16,4 @@ I'm using [Fatkun Batch Download Image](https://chrome.google.com/webstore/detai
 I drag and drop photos on google drive into their respective folders and drag and drop data from google drive to the destination google colab file.
 
 ## Notes
-This notebook is based of the [fastai lesson two notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb) and [Ken Jee ball image classifier](https://github.com/PlayingNumbers/ball_image_classifier).
+This notebook is based of the [fastai lesson two notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb) and [Ken Jee's ball image classifier](https://github.com/PlayingNumbers/ball_image_classifier).
